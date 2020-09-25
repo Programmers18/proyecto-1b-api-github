@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Programmers18/proyecto-1b-api-github.git"
+    "url": "git+https://github.com/Programmers18/proyecto-1b-api-github-18.git"
   },
   "keywords": [
     "nodejs",
@@ -18,9 +18,9 @@
   "author": "Jonny David Lezcano",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Programmers18/proyecto-1b-api-github/issues"
+    "url": "https://github.com/Programmers18/proyecto-1b-api-github-18/issues"
   },
-  "homepage": "https://github.com/Programmers18/proyecto-1b-api-github#readme",
+  "homepage": "https://github.com/Programmers18/proyecto-1b-api-github-18#readme",
   "dependencies": {
     "axios": "^0.20.0"
   },
