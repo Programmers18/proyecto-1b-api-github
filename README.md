@@ -7,12 +7,12 @@ Seguir las siguientes instrucciones
 ### Instalación
 
 ```
-npm install proyecto-1b-api-github-18
+npm install 18b-api-github
 ```
 ### Uso
 
 ```
-const api = require('proyecto-1b-api-github-18');
+const api = require('18b-api-github');
 
 api.obtenerDatosDeUsuario('jonny1811')
     .then(
